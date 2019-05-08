@@ -1,0 +1,1 @@
+-e git+git://github.com/moj-analytical-services/gluejobutils.git@v1.0.2#egg=gluejobutilsv1.2.0
