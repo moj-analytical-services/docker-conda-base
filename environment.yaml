@@ -21,11 +21,12 @@ dependencies:
   - bwidget=1.9.11=1
   - bz2file=0.98=py_0
   - bzip2=1.0.6=h14c3975_5
-  - ca-certificates=2018.11.29=ha4d7672_0
+  - ca-certificates=2019.3.9=hecc5488_0
   - cairo=1.14.12=h80bd089_1005
-  - certifi=2018.11.29=py37_1000
+  - certifi=2019.3.9=py37_0
   - cffi=1.11.5=py37he75722e_1
   - chardet=3.0.4=py37_1
+  - conda=4.6.14=py37_0
   - cryptography=2.5=py37hb7f436b_0
   - curl=7.63.0=h646f8bb_1000
   - cython=0.29.4=py37hf484d3e_0
@@ -113,7 +114,7 @@ dependencies:
   - r-callr=3.1.1=r351h6115d3f_1000
   - r-catools=1.17.1.1=r351h29659fb_1002
   - r-cellranger=1.1.0=r351h6115d3f_1001
-  - r-cli=1.0.1=r351h6115d3f_1000
+  - r-cli=1.1.0=r351h6115d3f_0
   - r-clipr=0.5.0=r351h6115d3f_0
   - r-clisymbols=1.2.0=r351h6115d3f_1001
   - r-codetools=0.2_16=r351h6115d3f_1000
@@ -171,7 +172,7 @@ dependencies:
   - r-openssl=1.1=r351hff1dc39_1000
   - r-packrat=0.5.0=r351h6115d3f_1000
   - r-pdftools=2.0=r351h9c8f241_1000
-  - r-pillar=1.3.1=r351h6115d3f_1000
+  - r-pillar=1.4.0=h6115d3f_0
   - r-pkgbuild=1.0.2=r351h6115d3f_1001
   - r-pkgconfig=2.0.2=r351h6115d3f_1001
   - r-pkgload=1.0.2=r351h29659fb_1000
@@ -196,7 +197,7 @@ dependencies:
   - r-reshape2=1.4.3=r351h29659fb_1003
   - r-reticulate=1.10=r351h29659fb_1001
   - r-rex=1.1.2=r351h6115d3f_1000
-  - r-rlang=0.3.1=r351h96ca727_0
+  - r-rlang=0.3.4=r351hcdcec82_0
   - r-rmarkdown=1.11=r351h6115d3f_1000
   - r-rprojroot=1.3_2=r351h6115d3f_1001
   - r-rstudioapi=0.9.0=r351h6115d3f_0
@@ -222,6 +223,7 @@ dependencies:
   - r-tokenizers=0.2.1=r351h29659fb_1000
   - r-usethis=1.4.0=r351h6115d3f_1000
   - r-utf8=1.1.4=r351h96ca727_1000
+  - r-vctrs=0.1.0=r351h96ca727_1000
   - r-viridislite=0.3.0=r351h6115d3f_1001
   - r-webshot=0.5.1=r351h6115d3f_1000
   - r-whisker=0.3_2=r351h6115d3f_1001
@@ -231,6 +233,7 @@ dependencies:
   - r-xopen=1.0.0=r351h6115d3f_1000
   - r-xtable=1.8_3=r351_2000
   - r-yaml=2.2.0=r351h96ca727_1001
+  - r-zeallot=0.1.0=r351h6115d3f_1000
   - readline=7.0=h7b6447c_5
   - requests=2.19.1=py37_0
   - ruamel_yaml=0.15.46=py37h14c3975_0
@@ -260,4 +263,3 @@ dependencies:
   - yaml=0.1.7=had09818_2
   - zlib=1.2.11=ha838bed_2
   - zstd=1.3.7=h0b5b093_0
-
